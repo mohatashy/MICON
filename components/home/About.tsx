@@ -45,7 +45,7 @@ export default function About() {
               >
 
                 <Image
-                  src="/images/about/1.jpg"
+                  src="/images/about/1.JPG"
                   alt="About MICON"
                   fill
                   sizes="(max-width: 1024px) 90vw, 500px"
@@ -81,7 +81,7 @@ export default function About() {
                 <div className="relative aspect-square">
 
                   <Image
-                    src="/images/about/2.jpg"
+                    src="/images/about/2.JPG"
                     alt="MICON Construction"
                     fill
                     sizes="208px"
